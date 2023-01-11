@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is my sexy website I am making in data camp. 
 baseurl: "/pages-sample" # the subpath of your site, e.g. /blog
 url: "https://adphilippidis.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+email: alexandra.philippidis@colorado.edu
+github_username:  adphilippidis
 
 # Build settings
 theme: minima
